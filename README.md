@@ -36,5 +36,6 @@ http://127.0.0.1:8000/financial-news/
 <img width="1160" alt="Screen Shot 2025-03-05 at 8 38 27 AM" src="https://github.com/user-attachments/assets/12a8a6a7-dfe6-429a-9165-d225eaf5c97c" />
 
 
-7 ] Utilize how you see fit!  I think a grid of news ranked by top 5 sentiment and bottom five sentiment would be kinda fun continuation.
+
+7 ] Utilize how you see fit!  Clustering perhaps later with D3 for visuals?
 
